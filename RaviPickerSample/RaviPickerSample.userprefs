@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{BDBDD592-FA0D-4BDF-8EA6-D7F749FA38AC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../HD/HealthDialog/WebAPI/WebMethods.cs">
+    <Files>
+      <File FileName="../HD/HealthDialog/WebAPI/WebMethods.cs" Line="70" Column="25" />
+      <File FileName="RaviPickerSample/WebAPI/WebMethods.cs" Line="19" Column="39" />
+      <File FileName="RaviPickerSample/Common/ConstantsFile.cs" Line="7" Column="10" />
+      <File FileName="../HD/HealthDialog/ModalObjects/ConstantsFile.cs" Line="1" Column="1" />
+      <File FileName="RaviPickerSample/RaviPickerSamplePageViewModal.cs" Line="18" Column="9" />
+      <File FileName="../HD/HealthDialog/Pages/RegistrationPageThree.xaml.cs" Line="264" Column="10" />
+      <File FileName="RaviPickerSample/RaviPickerSamplePage.xaml" Line="9" Column="108" />
+      <File FileName="RaviPickerSample/APICalls.cs" Line="29" Column="82" />
+      <File FileName="RaviPickerSample/Models/QuestionsModal.cs" Line="7" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RaviPickerSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D93C4D9C-6BC3-4614-8F47-6511184A1640" />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>Droid/RaviPickerSample.Droid.csproj</String>
+  </DisabledProjects>
+</Properties>
